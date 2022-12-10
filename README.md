@@ -28,5 +28,5 @@ Original file is located at
 
 -> Strings.ipynb
 
-Original file is located at
+Original file is located at:
     https://colab.research.google.com/drive/1QzrZOe5o5_MxnOIHKkR1tOUgOVW0HdM_
